@@ -1,6 +1,8 @@
 
 <div align="center">
 
+## 🎆 HAPPY NEW YEAR 2026! 🎆
+
 Hi! I'm,
 
 <h1 style="font-size: 3em; font-weight: bold;">🌆 JAY 🔮</h1>
@@ -46,32 +48,43 @@ Hi! I'm,
 
 ## 🌸 Featured Projects
 
-### 💻 [**Vaporwave Portfolio**](#)
-Check it out. I love Vaporwave 🌆  
+### 💻 [**Vaporwave Portfolio**](https://github.com/apotato369550/portfolio-site-v3)
+Check it out. I love Vaporwave 🌆
 > *built with Next.js, Supabase, and Tailwind CSS.*
 
-### 🧮 [**GDG Enrollmate**](#)
-An irregular student scheduler powered by a home-brewed algorithm. My take on the University Timetabling Problem  
+### 🧮 [**GDG Enrollmate**](https://github.com/apotato369550/enrollmate)
+**[🔴 LIVE - BETA TESTING](https://enrollmate-iota.vercel.app/)**
+An irregular student scheduler powered by a home-brewed algorithm. My take on the University Timetabling Problem. CURRENTLY IN BETA TESTING FOR 2ND SEM 2025-2026
 > *Next.js + Supabase + Chrome Extension.*
 
-### 🧠 [**DIY Machine Learning Library**](#)
-*Ever wondered how those Scikitlearn machine learning models worked?* I did! And instead of digging into their source code I decided to build them myself because why not 🫠  
+### 🧠 [**DIY Machine Learning Library**](https://github.com/apotato369550/diy-machine-learning-models)
+*Ever wondered how those Scikitlearn machine learning models worked?* I did! And instead of digging into their source code I decided to build them myself because why not 🫠
 
 > Linear Regression, Logistic Regression, Decision Trees, K-Means, Naïve Bayes...and more soon to come! *(all from scratch.)*
 
-### 🔮 [**Graph Theory Research**](#)
-Fun fact: The idea for this project came when our professor said she'd give us a flat one (4.0) if we could come up with an algorithm for the TSP. It's been a few months since then and I think I'm on to something.
-> Exploring anchor-based greedy heuristics for approximating the Travelling Salesman Problem (TSP).
+### 🐕 [**sysdawg**](https://github.com/apotato369550/sysdawg)
+A sysadmin CLI assistant that literally just vibes with Mistral 7B to help me manage my homelab. Because who doesn't want an AI dog helping with server management?
+> *Shell scripting + Mistral 7B + homelab chaos*
+
+### 🏠 [**homelab-manager**](https://github.com/apotato369550/homelab-manager)
+Bash script that helps me keep tabs on all my servers without losing my mind. SSH wizardry, real-time monitoring, bandwidth testing - the whole shebang.
+> *Bash + SSH + tmux + probably too much coffee*
+
+### 🚀 [**DCISM Starship**](https://github.com/apotato369550/dcism-starship)
+**[🔴 LIVE - IN DEVELOPMENT](https://starship.dcism.org/)**
+Real-time multiplayer territory control game with full vaporwave vibes. Build colonies, dominate the grid, vibe to neon aesthetics. It's live and it's chaotic.
+> *Node.js + Socket.IO + Canvas + aesthetic overload*
 
 ## ☀️ Current Focus
+- FULLY migrated to **Linux** (PC, laptop, and ALL servers running either Ubuntu or Mint) and LOVING IT 🐧
+- Pushing **Gemini CLI** & **Claude Code** to their very limits (seriously, check the commit messages lol)
+- Evolved into a homelab-loving gremlin 🏠
+- Explored crypto, found out it was lame (or is it?) 💸
+- Shamefully vibe coding the pain away or something 🎵
+- Removed Herobrine ⛏️
+- Gossiping with local LLMs (hi Mistral 7B) 🤖
 - Crunching commits like it's cereal 🥣
-- Migrating to **Linux** and learning Bash maybe 🐧  
 - Contemplating whether the egg came first or the chicken (who knows?) 🥚🐔
-- Automating workflows with **n8n** 🚀 
-- If you drop soap in a puddle, does the soap become dirty or the puddle become clean? 🧼 
-- Building and experimenting on agents with **Gemini CLI** </> 
-- Refining vaporwave portfolio **estetiks** 🌆 
-- Writing. A lot. (Check out my Medium!) 🖊️
 
 ---
 
@@ -79,6 +92,10 @@ Fun fact: The idea for this project came when our professor said she'd give us a
 
 ### 🌷 Philosophy
 > *Let's take things one step at a time. Who knows where things might lead?*
+
+> *"Why why? - butterfly!"*
+
+> *"Because because? - utan monggos!"*
 
 ---
 
@@ -94,6 +111,4 @@ Fun fact: The idea for this project came when our professor said she'd give us a
 <div align="center">
 
 🤎 *Anthropic, my beloved.*
-
-(links to projects coming soon)
 
